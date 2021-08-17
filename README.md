@@ -32,7 +32,6 @@
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
 
 <br />
-<br />
 
 <img alt="Docker"
     style="float:left; margin-left:20px" width="26px"
@@ -44,7 +43,6 @@
     style="float:left; margin-left:20px" width="26px"
     src="https://github.com/felipehernandez/felipehernandez/blob/main/assets/gcp.png">
 
-<br />
 <br />
 
 <img alt="Git"
@@ -67,7 +65,6 @@
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 
 <br />
-<br />
 
 ---
 
@@ -83,9 +80,6 @@
 
 ## GitHub stats
 
-<details>
-  <summary>GitHub Stats</summary>
-
 <a target="_blank" href="https://github.com/felipehernandez">
   <img align="center"
     alt="Felipe Hernandez's GitHub Stats"
@@ -94,4 +88,3 @@
 <img align="center" margin-top="20px"
     alt="Felipe Hernandez's GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipehernandez&theme=algolia&hide_border=true" />
-</details>
