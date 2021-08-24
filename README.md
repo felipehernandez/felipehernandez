@@ -12,10 +12,10 @@
         width="22px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 - 📫 &nbsp; How to reach me:
-  - <img alt="Java"
+  - <img alt="LinkdeIN"
     style="float:left;" width="20px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"> &nbsp; felherlla@gmail.com
-  - <img alt="Java"
+  - <img alt="GMail"
     style="float:left;" width="20px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> &nbsp; [felipe-hernandez-llamas](https://www.linkedin.com/in/felipe-hernandez-llamas/)
 
