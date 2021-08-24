@@ -17,7 +17,7 @@
     src="https://github.com/felipehernandez/felipehernandez/blob/main/assets/gmail.png"> &nbsp; felherlla@gmail.com
   - <img alt="LinkedIN"
     style="float:left;" height="20px"
-    src="https://github.com/felipehernandez/felipehernandez/blob/main/assets/linkedin.spng"> &nbsp; [felipe-hernandez-llamas](https://www.linkedin.com/in/felipe-hernandez-llamas/)
+    src="https://github.com/felipehernandez/felipehernandez/blob/main/assets/linkedin.png"> &nbsp; [felipe-hernandez-llamas](https://www.linkedin.com/in/felipe-hernandez-llamas/)
 
 ---
 
