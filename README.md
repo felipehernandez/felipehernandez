@@ -14,10 +14,10 @@
 - 📫 &nbsp; How to reach me:
   - <img alt="LinkedIN"
     style="float:left;" width="20px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"> &nbsp; felherlla@gmail.com
+    src="https://github.com/felipehernandez/felipehernandez/blob/main/assets/gmail.svg"> &nbsp; felherlla@gmail.com
   - <img alt="GMail"
     style="float:left;" width="20px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> &nbsp; [felipe-hernandez-llamas](https://www.linkedin.com/in/felipe-hernandez-llamas/)
+    src="https://github.com/felipehernandez/felipehernandez/blob/main/assets/linkedin.svg"> &nbsp; [felipe-hernandez-llamas](https://www.linkedin.com/in/felipe-hernandez-llamas/)
 
 ---
 
